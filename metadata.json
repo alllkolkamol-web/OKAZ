@@ -1,0 +1,6 @@
+{
+  "name": "متجر عكاظ",
+  "description": "منصة تسوق إلكتروني للمتسوقين في ليبيا تضم أحدث الإلكترونيات والأزياء والعطور مع التوصيل السريع والدفع عند الاستلام كاش",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
